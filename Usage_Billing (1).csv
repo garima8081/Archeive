@@ -1,0 +1,201 @@
+CustomerID,PhoneService,InternetService,PaymentMethod,MonthlyCharges,TotalCharges
+CUST0001,Yes,DSL,Electronic check,30,100.0
+CUST0002,No,Fiber optic,Mailed check,31,150.75
+CUST0003,Yes,No,Credit card,32,201.5
+CUST0004,No,DSL,Bank transfer,33,252.25
+CUST0005,Yes,Fiber optic,Electronic check,34,303.0
+CUST0006,No,No,Mailed check,35,353.75
+CUST0007,Yes,DSL,Credit card,36,404.5
+CUST0008,No,Fiber optic,Bank transfer,37,455.25
+CUST0009,Yes,No,Electronic check,38,506.0
+CUST0010,No,DSL,Mailed check,39,556.75
+CUST0011,Yes,Fiber optic,Credit card,40,607.5
+CUST0012,No,No,Bank transfer,41,658.25
+CUST0013,Yes,DSL,Electronic check,42,709.0
+CUST0014,No,Fiber optic,Mailed check,43,759.75
+CUST0015,Yes,No,Credit card,44,810.5
+CUST0016,No,DSL,Bank transfer,45,861.25
+CUST0017,Yes,Fiber optic,Electronic check,46,912.0
+CUST0018,No,No,Mailed check,47,962.75
+CUST0019,Yes,DSL,Credit card,48,1013.5
+CUST0020,No,Fiber optic,Bank transfer,49,1064.25
+CUST0021,Yes,No,Electronic check,50,1115.0
+CUST0022,No,DSL,Mailed check,51,1165.75
+CUST0023,Yes,Fiber optic,Credit card,52,1216.5
+CUST0024,No,No,Bank transfer,53,1267.25
+CUST0025,Yes,DSL,Electronic check,54,1318.0
+CUST0026,No,Fiber optic,Mailed check,55,1368.75
+CUST0027,Yes,No,Credit card,56,1419.5
+CUST0028,No,DSL,Bank transfer,57,1470.25
+CUST0029,Yes,Fiber optic,Electronic check,58,1521.0
+CUST0030,No,No,Mailed check,59,1571.75
+CUST0031,Yes,DSL,Credit card,60,1622.5
+CUST0032,No,Fiber optic,Bank transfer,61,1673.25
+CUST0033,Yes,No,Electronic check,62,1724.0
+CUST0034,No,DSL,Mailed check,63,1774.75
+CUST0035,Yes,Fiber optic,Credit card,64,1825.5
+CUST0036,No,No,Bank transfer,65,1876.25
+CUST0037,Yes,DSL,Electronic check,66,1927.0
+CUST0038,No,Fiber optic,Mailed check,67,1977.75
+CUST0039,Yes,No,Credit card,68,2028.5
+CUST0040,No,DSL,Bank transfer,69,2079.25
+CUST0041,Yes,Fiber optic,Electronic check,70,2130.0
+CUST0042,No,No,Mailed check,71,2180.75
+CUST0043,Yes,DSL,Credit card,72,2231.5
+CUST0044,No,Fiber optic,Bank transfer,73,2282.25
+CUST0045,Yes,No,Electronic check,74,2333.0
+CUST0046,No,DSL,Mailed check,75,2383.75
+CUST0047,Yes,Fiber optic,Credit card,76,2434.5
+CUST0048,No,No,Bank transfer,77,2485.25
+CUST0049,Yes,DSL,Electronic check,78,2536.0
+CUST0050,No,Fiber optic,Mailed check,79,2586.75
+CUST0051,Yes,No,Credit card,80,2637.5
+CUST0052,No,DSL,Bank transfer,81,2688.25
+CUST0053,Yes,Fiber optic,Electronic check,82,2739.0
+CUST0054,No,No,Mailed check,83,2789.75
+CUST0055,Yes,DSL,Credit card,84,2840.5
+CUST0056,No,Fiber optic,Bank transfer,85,2891.25
+CUST0057,Yes,No,Electronic check,86,2942.0
+CUST0058,No,DSL,Mailed check,87,2992.75
+CUST0059,Yes,Fiber optic,Credit card,88,3043.5
+CUST0060,No,No,Bank transfer,89,3094.25
+CUST0061,Yes,DSL,Electronic check,90,3145.0
+CUST0062,No,Fiber optic,Mailed check,91,3195.75
+CUST0063,Yes,No,Credit card,92,3246.5
+CUST0064,No,DSL,Bank transfer,93,3297.25
+CUST0065,Yes,Fiber optic,Electronic check,94,3348.0
+CUST0066,No,No,Mailed check,95,3398.75
+CUST0067,Yes,DSL,Credit card,96,3449.5
+CUST0068,No,Fiber optic,Bank transfer,97,3500.25
+CUST0069,Yes,No,Electronic check,98,3551.0
+CUST0070,No,DSL,Mailed check,99,3601.75
+CUST0071,Yes,Fiber optic,Credit card,100,3652.5
+CUST0072,No,No,Bank transfer,101,3703.25
+CUST0073,Yes,DSL,Electronic check,102,3754.0
+CUST0074,No,Fiber optic,Mailed check,103,3804.75
+CUST0075,Yes,No,Credit card,104,3855.5
+CUST0076,No,DSL,Bank transfer,105,3906.25
+CUST0077,Yes,Fiber optic,Electronic check,106,3957.0
+CUST0078,No,No,Mailed check,107,4007.75
+CUST0079,Yes,DSL,Credit card,108,4058.5
+CUST0080,No,Fiber optic,Bank transfer,109,4109.25
+CUST0081,Yes,No,Electronic check,30,100.0
+CUST0082,No,DSL,Mailed check,31,150.75
+CUST0083,Yes,Fiber optic,Credit card,32,201.5
+CUST0084,No,No,Bank transfer,33,252.25
+CUST0085,Yes,DSL,Electronic check,34,303.0
+CUST0086,No,Fiber optic,Mailed check,35,353.75
+CUST0087,Yes,No,Credit card,36,404.5
+CUST0088,No,DSL,Bank transfer,37,455.25
+CUST0089,Yes,Fiber optic,Electronic check,38,506.0
+CUST0090,No,No,Mailed check,39,556.75
+CUST0091,Yes,DSL,Credit card,40,607.5
+CUST0092,No,Fiber optic,Bank transfer,41,658.25
+CUST0093,Yes,No,Electronic check,42,709.0
+CUST0094,No,DSL,Mailed check,43,759.75
+CUST0095,Yes,Fiber optic,Credit card,44,810.5
+CUST0096,No,No,Bank transfer,45,861.25
+CUST0097,Yes,DSL,Electronic check,46,912.0
+CUST0098,No,Fiber optic,Mailed check,47,962.75
+CUST0099,Yes,No,Credit card,48,1013.5
+CUST0100,No,DSL,Bank transfer,49,1064.25
+CUST0101,Yes,Fiber optic,Electronic check,50,1115.0
+CUST0102,No,No,Mailed check,51,1165.75
+CUST0103,Yes,DSL,Credit card,52,1216.5
+CUST0104,No,Fiber optic,Bank transfer,53,1267.25
+CUST0105,Yes,No,Electronic check,54,1318.0
+CUST0106,No,DSL,Mailed check,55,1368.75
+CUST0107,Yes,Fiber optic,Credit card,56,1419.5
+CUST0108,No,No,Bank transfer,57,1470.25
+CUST0109,Yes,DSL,Electronic check,58,1521.0
+CUST0110,No,Fiber optic,Mailed check,59,1571.75
+CUST0111,Yes,No,Credit card,60,1622.5
+CUST0112,No,DSL,Bank transfer,61,1673.25
+CUST0113,Yes,Fiber optic,Electronic check,62,1724.0
+CUST0114,No,No,Mailed check,63,1774.75
+CUST0115,Yes,DSL,Credit card,64,1825.5
+CUST0116,No,Fiber optic,Bank transfer,65,1876.25
+CUST0117,Yes,No,Electronic check,66,1927.0
+CUST0118,No,DSL,Mailed check,67,1977.75
+CUST0119,Yes,Fiber optic,Credit card,68,2028.5
+CUST0120,No,No,Bank transfer,69,2079.25
+CUST0121,Yes,DSL,Electronic check,70,2130.0
+CUST0122,No,Fiber optic,Mailed check,71,2180.75
+CUST0123,Yes,No,Credit card,72,2231.5
+CUST0124,No,DSL,Bank transfer,73,2282.25
+CUST0125,Yes,Fiber optic,Electronic check,74,2333.0
+CUST0126,No,No,Mailed check,75,2383.75
+CUST0127,Yes,DSL,Credit card,76,2434.5
+CUST0128,No,Fiber optic,Bank transfer,77,2485.25
+CUST0129,Yes,No,Electronic check,78,2536.0
+CUST0130,No,DSL,Mailed check,79,2586.75
+CUST0131,Yes,Fiber optic,Credit card,80,2637.5
+CUST0132,No,No,Bank transfer,81,2688.25
+CUST0133,Yes,DSL,Electronic check,82,2739.0
+CUST0134,No,Fiber optic,Mailed check,83,2789.75
+CUST0135,Yes,No,Credit card,84,2840.5
+CUST0136,No,DSL,Bank transfer,85,2891.25
+CUST0137,Yes,Fiber optic,Electronic check,86,2942.0
+CUST0138,No,No,Mailed check,87,2992.75
+CUST0139,Yes,DSL,Credit card,88,3043.5
+CUST0140,No,Fiber optic,Bank transfer,89,3094.25
+CUST0141,Yes,No,Electronic check,90,3145.0
+CUST0142,No,DSL,Mailed check,91,3195.75
+CUST0143,Yes,Fiber optic,Credit card,92,3246.5
+CUST0144,No,No,Bank transfer,93,3297.25
+CUST0145,Yes,DSL,Electronic check,94,3348.0
+CUST0146,No,Fiber optic,Mailed check,95,3398.75
+CUST0147,Yes,No,Credit card,96,3449.5
+CUST0148,No,DSL,Bank transfer,97,3500.25
+CUST0149,Yes,Fiber optic,Electronic check,98,3551.0
+CUST0150,No,No,Mailed check,99,3601.75
+CUST0151,Yes,DSL,Credit card,100,3652.5
+CUST0152,No,Fiber optic,Bank transfer,101,3703.25
+CUST0153,Yes,No,Electronic check,102,3754.0
+CUST0154,No,DSL,Mailed check,103,3804.75
+CUST0155,Yes,Fiber optic,Credit card,104,3855.5
+CUST0156,No,No,Bank transfer,105,3906.25
+CUST0157,Yes,DSL,Electronic check,106,3957.0
+CUST0158,No,Fiber optic,Mailed check,107,4007.75
+CUST0159,Yes,No,Credit card,108,4058.5
+CUST0160,No,DSL,Bank transfer,109,4109.25
+CUST0161,Yes,Fiber optic,Electronic check,30,100.0
+CUST0162,No,No,Mailed check,31,150.75
+CUST0163,Yes,DSL,Credit card,32,201.5
+CUST0164,No,Fiber optic,Bank transfer,33,252.25
+CUST0165,Yes,No,Electronic check,34,303.0
+CUST0166,No,DSL,Mailed check,35,353.75
+CUST0167,Yes,Fiber optic,Credit card,36,404.5
+CUST0168,No,No,Bank transfer,37,455.25
+CUST0169,Yes,DSL,Electronic check,38,506.0
+CUST0170,No,Fiber optic,Mailed check,39,556.75
+CUST0171,Yes,No,Credit card,40,607.5
+CUST0172,No,DSL,Bank transfer,41,658.25
+CUST0173,Yes,Fiber optic,Electronic check,42,709.0
+CUST0174,No,No,Mailed check,43,759.75
+CUST0175,Yes,DSL,Credit card,44,810.5
+CUST0176,No,Fiber optic,Bank transfer,45,861.25
+CUST0177,Yes,No,Electronic check,46,912.0
+CUST0178,No,DSL,Mailed check,47,962.75
+CUST0179,Yes,Fiber optic,Credit card,48,1013.5
+CUST0180,No,No,Bank transfer,49,1064.25
+CUST0181,Yes,DSL,Electronic check,50,1115.0
+CUST0182,No,Fiber optic,Mailed check,51,1165.75
+CUST0183,Yes,No,Credit card,52,1216.5
+CUST0184,No,DSL,Bank transfer,53,1267.25
+CUST0185,Yes,Fiber optic,Electronic check,54,1318.0
+CUST0186,No,No,Mailed check,55,1368.75
+CUST0187,Yes,DSL,Credit card,56,1419.5
+CUST0188,No,Fiber optic,Bank transfer,57,1470.25
+CUST0189,Yes,No,Electronic check,58,1521.0
+CUST0190,No,DSL,Mailed check,59,1571.75
+CUST0191,Yes,Fiber optic,Credit card,60,1622.5
+CUST0192,No,No,Bank transfer,61,1673.25
+CUST0193,Yes,DSL,Electronic check,62,1724.0
+CUST0194,No,Fiber optic,Mailed check,63,1774.75
+CUST0195,Yes,No,Credit card,64,1825.5
+CUST0196,No,DSL,Bank transfer,65,1876.25
+CUST0197,Yes,Fiber optic,Electronic check,66,1927.0
+CUST0198,No,No,Mailed check,67,1977.75
+CUST0199,Yes,DSL,Credit card,68,2028.5
+CUST0200,No,Fiber optic,Bank transfer,69,2079.25
