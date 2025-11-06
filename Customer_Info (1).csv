@@ -1,0 +1,201 @@
+CustomerID,Gender,SeniorCitizen,Partner,Dependents,Tenure,Contract,Churn
+CUST0001,Male,0,Yes,No,1,Month-to-month,Yes
+CUST0002,Female,1,No,Yes,2,One year,No
+CUST0003,Male,0,Yes,No,3,Two year,No
+CUST0004,Female,1,No,Yes,4,Month-to-month,Yes
+CUST0005,Male,0,Yes,No,5,One year,No
+CUST0006,Female,1,No,Yes,6,Two year,No
+CUST0007,Male,0,Yes,No,7,Month-to-month,Yes
+CUST0008,Female,1,No,Yes,8,One year,No
+CUST0009,Male,0,Yes,No,9,Two year,No
+CUST0010,Female,1,No,Yes,10,Month-to-month,Yes
+CUST0011,Male,0,Yes,No,11,One year,No
+CUST0012,Female,1,No,Yes,12,Two year,No
+CUST0013,Male,0,Yes,No,13,Month-to-month,Yes
+CUST0014,Female,1,No,Yes,14,One year,No
+CUST0015,Male,0,Yes,No,15,Two year,No
+CUST0016,Female,1,No,Yes,16,Month-to-month,Yes
+CUST0017,Male,0,Yes,No,17,One year,No
+CUST0018,Female,1,No,Yes,18,Two year,No
+CUST0019,Male,0,Yes,No,19,Month-to-month,Yes
+CUST0020,Female,1,No,Yes,20,One year,No
+CUST0021,Male,0,Yes,No,21,Two year,No
+CUST0022,Female,1,No,Yes,22,Month-to-month,Yes
+CUST0023,Male,0,Yes,No,23,One year,No
+CUST0024,Female,1,No,Yes,24,Two year,No
+CUST0025,Male,0,Yes,No,25,Month-to-month,Yes
+CUST0026,Female,1,No,Yes,26,One year,No
+CUST0027,Male,0,Yes,No,27,Two year,No
+CUST0028,Female,1,No,Yes,28,Month-to-month,Yes
+CUST0029,Male,0,Yes,No,29,One year,No
+CUST0030,Female,1,No,Yes,30,Two year,No
+CUST0031,Male,0,Yes,No,31,Month-to-month,Yes
+CUST0032,Female,1,No,Yes,32,One year,No
+CUST0033,Male,0,Yes,No,33,Two year,No
+CUST0034,Female,1,No,Yes,34,Month-to-month,Yes
+CUST0035,Male,0,Yes,No,35,One year,No
+CUST0036,Female,1,No,Yes,36,Two year,No
+CUST0037,Male,0,Yes,No,37,Month-to-month,Yes
+CUST0038,Female,1,No,Yes,38,One year,No
+CUST0039,Male,0,Yes,No,39,Two year,No
+CUST0040,Female,1,No,Yes,40,Month-to-month,Yes
+CUST0041,Male,0,Yes,No,41,One year,No
+CUST0042,Female,1,No,Yes,42,Two year,No
+CUST0043,Male,0,Yes,No,43,Month-to-month,Yes
+CUST0044,Female,1,No,Yes,44,One year,No
+CUST0045,Male,0,Yes,No,45,Two year,No
+CUST0046,Female,1,No,Yes,46,Month-to-month,Yes
+CUST0047,Male,0,Yes,No,47,One year,No
+CUST0048,Female,1,No,Yes,48,Two year,No
+CUST0049,Male,0,Yes,No,49,Month-to-month,Yes
+CUST0050,Female,1,No,Yes,50,One year,No
+CUST0051,Male,0,Yes,No,51,Two year,No
+CUST0052,Female,1,No,Yes,52,Month-to-month,Yes
+CUST0053,Male,0,Yes,No,53,One year,No
+CUST0054,Female,1,No,Yes,54,Two year,No
+CUST0055,Male,0,Yes,No,55,Month-to-month,Yes
+CUST0056,Female,1,No,Yes,56,One year,No
+CUST0057,Male,0,Yes,No,57,Two year,No
+CUST0058,Female,1,No,Yes,58,Month-to-month,Yes
+CUST0059,Male,0,Yes,No,59,One year,No
+CUST0060,Female,1,No,Yes,60,Two year,No
+CUST0061,Male,0,Yes,No,61,Month-to-month,Yes
+CUST0062,Female,1,No,Yes,62,One year,No
+CUST0063,Male,0,Yes,No,63,Two year,No
+CUST0064,Female,1,No,Yes,64,Month-to-month,Yes
+CUST0065,Male,0,Yes,No,65,One year,No
+CUST0066,Female,1,No,Yes,66,Two year,No
+CUST0067,Male,0,Yes,No,67,Month-to-month,Yes
+CUST0068,Female,1,No,Yes,68,One year,No
+CUST0069,Male,0,Yes,No,69,Two year,No
+CUST0070,Female,1,No,Yes,70,Month-to-month,Yes
+CUST0071,Male,0,Yes,No,71,One year,No
+CUST0072,Female,1,No,Yes,72,Two year,No
+CUST0073,Male,0,Yes,No,1,Month-to-month,Yes
+CUST0074,Female,1,No,Yes,2,One year,No
+CUST0075,Male,0,Yes,No,3,Two year,No
+CUST0076,Female,1,No,Yes,4,Month-to-month,Yes
+CUST0077,Male,0,Yes,No,5,One year,No
+CUST0078,Female,1,No,Yes,6,Two year,No
+CUST0079,Male,0,Yes,No,7,Month-to-month,Yes
+CUST0080,Female,1,No,Yes,8,One year,No
+CUST0081,Male,0,Yes,No,9,Two year,No
+CUST0082,Female,1,No,Yes,10,Month-to-month,Yes
+CUST0083,Male,0,Yes,No,11,One year,No
+CUST0084,Female,1,No,Yes,12,Two year,No
+CUST0085,Male,0,Yes,No,13,Month-to-month,Yes
+CUST0086,Female,1,No,Yes,14,One year,No
+CUST0087,Male,0,Yes,No,15,Two year,No
+CUST0088,Female,1,No,Yes,16,Month-to-month,Yes
+CUST0089,Male,0,Yes,No,17,One year,No
+CUST0090,Female,1,No,Yes,18,Two year,No
+CUST0091,Male,0,Yes,No,19,Month-to-month,Yes
+CUST0092,Female,1,No,Yes,20,One year,No
+CUST0093,Male,0,Yes,No,21,Two year,No
+CUST0094,Female,1,No,Yes,22,Month-to-month,Yes
+CUST0095,Male,0,Yes,No,23,One year,No
+CUST0096,Female,1,No,Yes,24,Two year,No
+CUST0097,Male,0,Yes,No,25,Month-to-month,Yes
+CUST0098,Female,1,No,Yes,26,One year,No
+CUST0099,Male,0,Yes,No,27,Two year,No
+CUST0100,Female,1,No,Yes,28,Month-to-month,Yes
+CUST0101,Male,0,Yes,No,29,One year,No
+CUST0102,Female,1,No,Yes,30,Two year,No
+CUST0103,Male,0,Yes,No,31,Month-to-month,Yes
+CUST0104,Female,1,No,Yes,32,One year,No
+CUST0105,Male,0,Yes,No,33,Two year,No
+CUST0106,Female,1,No,Yes,34,Month-to-month,Yes
+CUST0107,Male,0,Yes,No,35,One year,No
+CUST0108,Female,1,No,Yes,36,Two year,No
+CUST0109,Male,0,Yes,No,37,Month-to-month,Yes
+CUST0110,Female,1,No,Yes,38,One year,No
+CUST0111,Male,0,Yes,No,39,Two year,No
+CUST0112,Female,1,No,Yes,40,Month-to-month,Yes
+CUST0113,Male,0,Yes,No,41,One year,No
+CUST0114,Female,1,No,Yes,42,Two year,No
+CUST0115,Male,0,Yes,No,43,Month-to-month,Yes
+CUST0116,Female,1,No,Yes,44,One year,No
+CUST0117,Male,0,Yes,No,45,Two year,No
+CUST0118,Female,1,No,Yes,46,Month-to-month,Yes
+CUST0119,Male,0,Yes,No,47,One year,No
+CUST0120,Female,1,No,Yes,48,Two year,No
+CUST0121,Male,0,Yes,No,49,Month-to-month,Yes
+CUST0122,Female,1,No,Yes,50,One year,No
+CUST0123,Male,0,Yes,No,51,Two year,No
+CUST0124,Female,1,No,Yes,52,Month-to-month,Yes
+CUST0125,Male,0,Yes,No,53,One year,No
+CUST0126,Female,1,No,Yes,54,Two year,No
+CUST0127,Male,0,Yes,No,55,Month-to-month,Yes
+CUST0128,Female,1,No,Yes,56,One year,No
+CUST0129,Male,0,Yes,No,57,Two year,No
+CUST0130,Female,1,No,Yes,58,Month-to-month,Yes
+CUST0131,Male,0,Yes,No,59,One year,No
+CUST0132,Female,1,No,Yes,60,Two year,No
+CUST0133,Male,0,Yes,No,61,Month-to-month,Yes
+CUST0134,Female,1,No,Yes,62,One year,No
+CUST0135,Male,0,Yes,No,63,Two year,No
+CUST0136,Female,1,No,Yes,64,Month-to-month,Yes
+CUST0137,Male,0,Yes,No,65,One year,No
+CUST0138,Female,1,No,Yes,66,Two year,No
+CUST0139,Male,0,Yes,No,67,Month-to-month,Yes
+CUST0140,Female,1,No,Yes,68,One year,No
+CUST0141,Male,0,Yes,No,69,Two year,No
+CUST0142,Female,1,No,Yes,70,Month-to-month,Yes
+CUST0143,Male,0,Yes,No,71,One year,No
+CUST0144,Female,1,No,Yes,72,Two year,No
+CUST0145,Male,0,Yes,No,1,Month-to-month,Yes
+CUST0146,Female,1,No,Yes,2,One year,No
+CUST0147,Male,0,Yes,No,3,Two year,No
+CUST0148,Female,1,No,Yes,4,Month-to-month,Yes
+CUST0149,Male,0,Yes,No,5,One year,No
+CUST0150,Female,1,No,Yes,6,Two year,No
+CUST0151,Male,0,Yes,No,7,Month-to-month,Yes
+CUST0152,Female,1,No,Yes,8,One year,No
+CUST0153,Male,0,Yes,No,9,Two year,No
+CUST0154,Female,1,No,Yes,10,Month-to-month,Yes
+CUST0155,Male,0,Yes,No,11,One year,No
+CUST0156,Female,1,No,Yes,12,Two year,No
+CUST0157,Male,0,Yes,No,13,Month-to-month,Yes
+CUST0158,Female,1,No,Yes,14,One year,No
+CUST0159,Male,0,Yes,No,15,Two year,No
+CUST0160,Female,1,No,Yes,16,Month-to-month,Yes
+CUST0161,Male,0,Yes,No,17,One year,No
+CUST0162,Female,1,No,Yes,18,Two year,No
+CUST0163,Male,0,Yes,No,19,Month-to-month,Yes
+CUST0164,Female,1,No,Yes,20,One year,No
+CUST0165,Male,0,Yes,No,21,Two year,No
+CUST0166,Female,1,No,Yes,22,Month-to-month,Yes
+CUST0167,Male,0,Yes,No,23,One year,No
+CUST0168,Female,1,No,Yes,24,Two year,No
+CUST0169,Male,0,Yes,No,25,Month-to-month,Yes
+CUST0170,Female,1,No,Yes,26,One year,No
+CUST0171,Male,0,Yes,No,27,Two year,No
+CUST0172,Female,1,No,Yes,28,Month-to-month,Yes
+CUST0173,Male,0,Yes,No,29,One year,No
+CUST0174,Female,1,No,Yes,30,Two year,No
+CUST0175,Male,0,Yes,No,31,Month-to-month,Yes
+CUST0176,Female,1,No,Yes,32,One year,No
+CUST0177,Male,0,Yes,No,33,Two year,No
+CUST0178,Female,1,No,Yes,34,Month-to-month,Yes
+CUST0179,Male,0,Yes,No,35,One year,No
+CUST0180,Female,1,No,Yes,36,Two year,No
+CUST0181,Male,0,Yes,No,37,Month-to-month,Yes
+CUST0182,Female,1,No,Yes,38,One year,No
+CUST0183,Male,0,Yes,No,39,Two year,No
+CUST0184,Female,1,No,Yes,40,Month-to-month,Yes
+CUST0185,Male,0,Yes,No,41,One year,No
+CUST0186,Female,1,No,Yes,42,Two year,No
+CUST0187,Male,0,Yes,No,43,Month-to-month,Yes
+CUST0188,Female,1,No,Yes,44,One year,No
+CUST0189,Male,0,Yes,No,45,Two year,No
+CUST0190,Female,1,No,Yes,46,Month-to-month,Yes
+CUST0191,Male,0,Yes,No,47,One year,No
+CUST0192,Female,1,No,Yes,48,Two year,No
+CUST0193,Male,0,Yes,No,49,Month-to-month,Yes
+CUST0194,Female,1,No,Yes,50,One year,No
+CUST0195,Male,0,Yes,No,51,Two year,No
+CUST0196,Female,1,No,Yes,52,Month-to-month,Yes
+CUST0197,Male,0,Yes,No,53,One year,No
+CUST0198,Female,1,No,Yes,54,Two year,No
+CUST0199,Male,0,Yes,No,55,Month-to-month,Yes
+CUST0200,Female,1,No,Yes,56,One year,No
